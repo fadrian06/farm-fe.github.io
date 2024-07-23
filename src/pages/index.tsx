@@ -69,7 +69,7 @@ function HomepageHeader() {
             </div>
           </Link>
           <Link
-            style={{ marginLeft: "20px", textDecoration: "none" }}
+            style={{ textDecoration: "none" }}
             to="/docs/why-farm"
           >
             <div
